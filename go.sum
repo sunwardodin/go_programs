@@ -1,4 +1,10 @@
 github.com/sunwardodin/dog v0.0.0-20240823141121-d89e23070a21 h1:jlIyoN1eR5BC/Y1lw8261/QLgztpLRhIGXJ6NYXgxyM=
 github.com/sunwardodin/dog v0.0.0-20240823141121-d89e23070a21/go.mod h1:4OkU8ILb9oYkmIGGJqq8ALinwW3Buc9bfUGZm10MfVM=
+github.com/sunwardodin/dog v0.0.0-20240823142114-a1ae6e80f589 h1:Yqf1MwzJ+XO6yg3A4PdrNDEc2/Q0joQ+m48rNyPmdIc=
+github.com/sunwardodin/dog v0.0.0-20240823142114-a1ae6e80f589/go.mod h1:4OkU8ILb9oYkmIGGJqq8ALinwW3Buc9bfUGZm10MfVM=
+github.com/sunwardodin/puppy v0.0.0-20240823141931-56d4093dbc23 h1:Fw4tm8xdaMQx1rN7gZ5+1Kj2gpUrdzrh0eNOfJMpTgU=
+github.com/sunwardodin/puppy v0.0.0-20240823141931-56d4093dbc23/go.mod h1:bhGBMUrAcGZrCq6mB/Qes5npoCkkRy7GnqloPBvZHwI=
 github.com/sunwardodin/puppy v0.0.0-20240823142323-6eb6305a5be9 h1:P7RLTA2QVBdW62sQg8l86Tp/z2w0cNVdQhlVHgr5wPM=
 github.com/sunwardodin/puppy v0.0.0-20240823142323-6eb6305a5be9/go.mod h1:Gi4EXHtj23gJ89AYxeOxkQtlLHmOipeNyLyPCTgCM5E=
+github.com/sunwardodin/puppy v0.0.0-20240823144450-94742b929b92 h1:FzqVszCbdZOMPVgfHgYC5Z9p0nlaNE9oLttKjXz4IfI=
+github.com/sunwardodin/puppy v0.0.0-20240823144450-94742b929b92/go.mod h1:57MoAYnLo1lcmsQZ5Dw50usxdZqbeuY/pyRa+Ogmrao=
