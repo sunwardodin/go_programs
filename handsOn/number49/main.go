@@ -10,7 +10,16 @@ func main() {
 	m["no_dr"] = []string{"cats", "ice cream", "sunsets"}
 	m["fleming_ian"] = []string{"steaks", "cigars", "espionage"}
 
-	//fmt.Println(m)
+	for k, v := range m {
+		fmt.Println(k)
+		for i, v2 := range v {
+			fmt.Println(i, v2)
+		}
+	}
+
+	fmt.Println("------------- Deleting Record --------------")
+	delete(m, "fleming_ian")
+	fmt.Println("------------- Deleting Record --------------")
 
 	for k, v := range m {
 		fmt.Println(k)
